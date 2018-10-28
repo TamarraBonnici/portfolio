@@ -109,7 +109,7 @@ a:hover, a:focus {
   padding-left: 0px;
   font-size: 20px;
   display: block;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-weight: 900;
   font-family: 'Forum', cursive;
   letter-spacing: .1em;
