@@ -7,7 +7,7 @@
  * License: Released for free under the Creative Commons Attribution 3.0 license (probootstrap.com/license)
  */
 @font-face {
-  font-family: 'icomoon';
+  font-family: 'Forum', cursive;
   src: url("../fonts/icomoon/icomoon.eot?1z9v6x");
   src: url("../fonts/icomoon/icomoon.eot?1z9v6x#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?1z9v6x") format("truetype"), url("../fonts/icomoon/icomoon.woff?1z9v6x") format("woff"), url("../fonts/icomoon/icomoon.svg?1z9v6x#icomoon") format("svg");
   font-weight: normal;
@@ -605,7 +605,7 @@ a:hover, a:focus {
   margin-top: 0;
   margin-bottom: 10px;
   color: #ffffff;
-  font-family: "Abel", sans-serif;
+  font-family:'Forum', cursive;
   font-size: 30px;
   line-height: 30px;
 }
@@ -728,6 +728,7 @@ a:hover, a:focus {
 
 .probootstrap-footer-widget .heading {
   text-transform: uppercase;
+  font: 'Forum', cursive;
   font-size: 14px;
   letter-spacing: .1em;
   margin-bottom: 30px;
@@ -885,7 +886,6 @@ figure:hover figcaption, figure:focus figcaption {
 
 .probootstrap-panel .panel .panel-heading a:after {
   font-family: 'icomoon';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -912,7 +912,6 @@ figure:hover figcaption, figure:focus figcaption {
 
 .probootstrap-panel .panel .panel-heading a[aria-expanded="true"]:after {
   font-family: 'icomoon';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -2049,7 +2048,6 @@ figure:hover figcaption, figure:focus figcaption {
 
 .flexslider .flex-direction-nav a:before, .flexslider2 .flex-direction-nav a:before {
   font-family: 'icomoon';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
