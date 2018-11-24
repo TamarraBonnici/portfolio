@@ -885,7 +885,7 @@ figure:hover figcaption, figure:focus figcaption {
 }
 
 .probootstrap-panel .panel .panel-heading a:after {
-  font-family: 'icomoon';
+  font-family: 'forum';
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -911,7 +911,7 @@ figure:hover figcaption, figure:focus figcaption {
 }
 
 .probootstrap-panel .panel .panel-heading a[aria-expanded="true"]:after {
-  font-family: 'icomoon';
+  font-family: 'forum';
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
